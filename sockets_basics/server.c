@@ -2,6 +2,8 @@
 #include <stdio.h>
 #include <string.h>
 
+// **bind error**
+
 void	error(char *msg)
 {
 	printf("%s", msg);
